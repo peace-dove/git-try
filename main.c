@@ -31,5 +31,6 @@ int main()
         printf ("p[%d]=%d\n",i,a[i]);
     }
     free(a);
+    printf("Hello World!\n");
     return 0;
 }
